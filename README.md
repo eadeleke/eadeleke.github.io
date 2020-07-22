@@ -1,3 +1,7 @@
+theme: Jekyll-slate-theme-eadeleke
+title: Welcome to eadeleke's homepage!
+description: Bookmark this homepage to get updates on my project
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/eadeleke/eadeleke.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
