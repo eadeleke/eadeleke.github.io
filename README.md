@@ -1,6 +1,3 @@
-theme: Jekyll-slate-theme-eadeleke
-title: Welcome to eadeleke's homepage!
-description: Bookmark this homepage to get updates on my project
 
 ## Welcome to GitHub Pages
 
@@ -25,7 +22,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _*Italic*_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
